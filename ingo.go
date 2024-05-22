@@ -61,11 +61,7 @@ func sendRequest(mobile string) {
 }
 
 func main() {
-	// mobile := "8929891510" //manav
-	// mobile := "8217889192"  //shakti
-	// mobile := "9816328430"  //inguz
-	mobile := "7986262805"  //mr kb
-	// mobile := "7208369027"  //random shreshth
+	mobile := ""  //YOUR NUMBER HERE
 
 	numRequests := 1000
 	wg.Add(numRequests)

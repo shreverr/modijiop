@@ -13,7 +13,6 @@ const spamSms = async (mobile, smsCount) => {
   const url = 'https://ekbaarphirsemodisarkar.com/api/v1/user/send_otp_mobile?language=en';
   
   const payload = {
-      // mobile: '8929891510' //manav
       mobile: mobile
   };
 
