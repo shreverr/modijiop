@@ -1,1 +1,1 @@
-"# modijiop" 
+# FOR EDUCATIONAL PURPOSES ONLY
